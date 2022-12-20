@@ -1,0 +1,6 @@
+Logged into "https://api.na410.prod.nextcle.com:6443" as "tadnbq" using existing credentials.
+
+You don't have any projects. You can try to create a new project, by running
+
+    oc new-project <projectname>
+
